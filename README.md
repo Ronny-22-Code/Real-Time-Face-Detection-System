@@ -5,7 +5,8 @@ This repository introduces to the system, which detects the face of an individua
 
 ## Code
 
-![Code](https://user-images.githubusercontent.com/46643368/83324066-3cee8680-a280-11ea-8e7e-413318b21cbc.png)
+![Code](https://user-images.githubusercontent.com/46643368/85265131-69687d80-b48f-11ea-890a-da3169690878.png)
+
 
 
 ## Output
