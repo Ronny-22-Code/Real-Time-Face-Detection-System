@@ -10,3 +10,5 @@ This repository introduces to the system, which detects the face of an individua
 
 
 ## Output
+
+![Output](https://user-images.githubusercontent.com/46643368/85281783-3979a400-b4a8-11ea-9964-6774f7e4195a.png)
